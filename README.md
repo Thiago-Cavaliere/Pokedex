@@ -17,5 +17,6 @@ Um projeto moderno de Pokédex que permite explorar todas as gerações de Poké
 
 Desenvolvido com atenção aos detalhes visuais da franquia, utilizando uma estrutura modular, responsiva e de fácil escalabilidade. Ideal para praticar consumo de APIs REST, rotas dinâmicas e layout em grid.
 
-# Pokédex React  
-Escolha sua geração favorita, explore os Pokémon, veja imagens e detalhes de cada um com uma interface feita para fãs. Seja bem-vindo à sua jornada como Mestre Pokémon! ⚡
+# Pokédex  
+🌟 Escolha sua geração favorita e embarque em uma jornada épica pelo mundo Pokémon! Explore cada Pokémon, descubra suas características únicas, veja imagens incríveis e mergulhe nos detalhes que fazem de cada criatura uma lenda. Tudo isso em uma interface desenhada com carinho para todos os fãs!
+Prepare-se para capturar, treinar e se tornar o Mestre Pokémon que sempre sonhou ser! Vamos lá, sua aventura começa agora! 🐾💥
