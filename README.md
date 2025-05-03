@@ -1,6 +1,6 @@
 CΛVΛLIΞRE
 
-🔍 Pokédex React App  
+🔍 Pokédex 
 Um projeto moderno de Pokédex que permite explorar todas as gerações de Pokémon com uma interface bonita, responsiva e dinâmica. Inspirado nos jogos clássicos e na nostalgia dos fãs, você pode navegar por regiões, visualizar os Pokémon e acessar detalhes de cada um.
 
 🚀 Tecnologias Utilizadas:
