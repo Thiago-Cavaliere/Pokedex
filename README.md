@@ -13,7 +13,7 @@ Um projeto moderno de Pokédex que permite explorar todas as gerações de Poké
 [https://pokedex-cavaliere.vercel.app](https://pokedex-cavaliere.vercel.app)
 
 ## 📸 GIF do Projeto:
-![Demonstração do Projeto](./public/assets/img/Pokedex.gif)
+![Demonstração do Projeto](./public/assets/Pokedex.gif)
 
 Desenvolvido com atenção aos detalhes visuais da franquia, utilizando uma estrutura modular, responsiva e de fácil escalabilidade. Ideal para praticar consumo de APIs REST, rotas dinâmicas e layout em grid.
 
