@@ -1,0 +1,11 @@
+.pokemon-detail-text {
+  font-family: "Press Start 2P", cursive;
+  font-size: 12px;
+  color: #333;
+}
+.pokemon-image {
+  width: 120px;
+  height: auto;
+  image-rendering: pixelated;
+  margin-bottom: 1rem;
+}

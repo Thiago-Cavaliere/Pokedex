@@ -1,0 +1,50 @@
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 15px;
+  background-color: #ffcb05;
+  border-bottom: 5px solid #3b4cca;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: "Pokemon Solid", sans-serif;
+  gap: 15px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #3b4cca;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 12px;
+  padding: 8px 14px;
+  background: linear-gradient(to bottom right, #ffffffcc, #ffecb3);
+  box-shadow: inset 0 0 5px #fff, 3px 3px 0px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 2px solid #3b4cca;
+}
+
+.nav-link:hover {
+  background: linear-gradient(to bottom right, #3b4cca, #2c3ba4);
+  color: #ffcb05;
+  transform: scale(1.08);
+  box-shadow: 0 0 10px #3b4cca;
+  border-color: #ffcb05;
+}
+
+
+/* Responsividade para telas pequenas */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-link {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+}

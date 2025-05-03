@@ -1,0 +1,25 @@
+footer {
+  background-color: #3b4cca;
+  color: #ffcb05;
+  text-align: center;
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: 16px;
+  width: 100%;
+}
+
+.footer__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.footer__text {
+  margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+  footer {
+    font-size: 14px;
+    padding: 15px 0;
+  }
+}

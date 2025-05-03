@@ -1,0 +1,54 @@
+.home__image {
+  width: 30%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.home__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.home__title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.home__main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.poke__intro {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home__text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffcb05; 
+  text-shadow: 1px 1px 2px #2a75bb; 
+  font-family: 'Press Start 2P', cursive; 
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Animação suave flutuando */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
