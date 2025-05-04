@@ -10,7 +10,9 @@ Um projeto moderno de Pokédex que permite explorar todas as gerações de Poké
 - **Versionamento:** Git + GitHub  
 
 🔗 **Link do Projeto:**  
-[https://pokedex-cavaliere.vercel.app](https://pokedex-nine-lake.vercel.app/)
+<a href="https://pokedex-nine-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
+  Acessar Projeto
+</a>
 
 ## 📸 GIF do Projeto:
 ![Demonstração do Projeto](./public/assets/Pokedex.gif)
