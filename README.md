@@ -10,7 +10,7 @@ Um projeto moderno de Pokédex que permite explorar todas as gerações de Poké
 - **Versionamento:** Git + GitHub  
 
 🔗 **Link do Projeto:**  
-<a href="https://pokedex-nine-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://pokedex-nine-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
   Acessar Projeto
 </a>
 
